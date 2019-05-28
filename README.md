@@ -2,6 +2,7 @@
 
 [![Build Status - Travis](https://travis-ci.org/renancaraujo/photo_view.svg?branch=master)](https://travis-ci.org/renancaraujo/photo_view) [![Pub](https://img.shields.io/pub/v/photo_view.svg?style=popout)](https://pub.dartlang.org/packages/photo_view) [![Chat](https://badges.gitter.im/photo_view/Lobby.svg)](https://gitter.im/photo_view/Lobby)
 
+
 A simple zoomable image/content widget for Flutter.
 
 PhotoView enables images to become able to zoom and pan with user gestures such as pinch, rotate and drag.
